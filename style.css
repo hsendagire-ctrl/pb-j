@@ -1,0 +1,29 @@
+/* Centre Fixed Width Body */
+html {
+  background-color: darkgray;
+}
+
+body {
+  background-color: white;
+  width: 500px;
+  margin: 30px auto;
+  padding: 15px 25px;
+}
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p,
+li {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  color: green;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: blue;
+}
